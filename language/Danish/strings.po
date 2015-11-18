@@ -764,79 +764,79 @@ msgstr ""
 # Aeon Nox for Plex
 msgctxt "#42073"
 msgid "Choose the background image."
-msgstr ""
+msgstr "Vælg baggrundsbilledet"
 
 # Aeon Nox for Plex
 msgctxt "#42074"
 msgid "Set a slideshow as the background for the Home menu."
-msgstr ""
+msgstr "Sæt et diasshow som baggrund for hjemmemenuen"
 
 # Aeon Nox for Plex
 msgctxt "#42075"
 msgid "Choose the folder for the Home menu slideshow."
-msgstr ""
+msgstr "Vælg mappen til hjemmemenu diasshowet"
 
 # Aeon Nox for Plex
 msgctxt "#42076"
 msgid "Allow a specific section's Home menu backgrounds to be overridden by a user selected slideshow."
-msgstr ""
+msgstr "Tillad en specifik sektions Hjemmemenus baggrunde at blive overskrevet af et brugerdefineret diasshow"
 
 # Aeon Nox for Plex
 msgctxt "#42077"
 msgid "Enter the exact name of the section whose backgrounds are to be overridden."
-msgstr ""
+msgstr "Indtast det eksakte navn på den sektion hvis baggrunde skal overskrives"
 
 # Aeon Nox for Plex
 msgctxt "#42078"
 msgid "Select the folder containing the backgrounds for the custom slideshow."
-msgstr ""
+msgstr "Vælg mappen der indeholder baggrundene til det brugerdefinerede diasshow"
 
 # Aeon Nox for Plex
 msgctxt "#42079"
 msgid "Lower"
-msgstr ""
+msgstr "Nedre"
 
 # Aeon Nox for Plex
 msgctxt "#42080"
 msgid "Middle"
-msgstr ""
+msgstr "Mellem"
 
 # Aeon Nox for Plex
 msgctxt "#42081"
 msgid "Watch Later"
-msgstr ""
+msgstr "Se senere"
 
 # Aeon Nox for Plex
 msgctxt "#42082"
 msgid "Disable Scroll Indicator"
-msgstr ""
+msgstr "Deaktiver Scroll Indikator"
 
 # Aeon Nox for Plex
 msgctxt "#42083"
 msgid "Disables the box which shows the first letter of the current item when scrolling through media."
-msgstr ""
+msgstr "Deaktiverer boksen der viser det første bogstav af det nuværende element når man scroller gennem media"
 
 # Aeon Nox for Plex
 msgctxt "#42084"
 msgid "Icon Style"
-msgstr ""
+msgstr "Ikonstil"
 
 # Aeon Nox for Plex
 msgctxt "#42085"
 msgid "Circles"
-msgstr ""
+msgstr "Cirkler"
 
 # Aeon Nox for Plex
 msgctxt "#42086"
 msgid "Ribbons"
-msgstr ""
+msgstr "Bånd"
 
 # Aeon Nox for Plex
 msgctxt "#42087"
 msgid "Position"
-msgstr ""
+msgstr "Position"
 
 # Aeon Nox for Plex
 msgctxt "#42088"
 msgid "Higher"
-msgstr ""
+msgstr "Højere"
