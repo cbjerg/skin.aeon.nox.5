@@ -34,7 +34,7 @@ msgstr ""
 # Kodi
 msgctxt "#31004"
 msgid "Working"
-msgstr ""
+msgstr "Arbejder"
 
 # Kodi
 msgctxt "#31005"
@@ -74,12 +74,12 @@ msgstr "Netværk"
 # Kodi
 msgctxt "#31022"
 msgid "Set multi-image background"
-msgstr ""
+msgstr "Indstil multi-billede baggrund"
 
 # Kodi
 msgctxt "#31023"
 msgid "Set single image background"
-msgstr ""
+msgstr "Indstil enkelt-billede baggrund"
 
 # Kodi
 msgctxt "#31025"
@@ -89,7 +89,7 @@ msgstr "Emner"
 # Kodi
 msgctxt "#31042"
 msgid "Show \"Now Playing\" information blended in the background"
-msgstr ""
+msgstr "Vis \"Nu afspiller\" information blandet ind i baggrunden
 
 # Kodi
 msgctxt "#31046"
@@ -139,7 +139,7 @@ msgstr "Landskab"
 # Kodi
 msgctxt "#31077"
 msgid "ShowCase"
-msgstr ""
+msgstr "Udstilling"
 
 # Kodi
 msgctxt "#31078"
@@ -159,22 +159,22 @@ msgstr "Ikon"
 # Kodi
 msgctxt "#31088"
 msgid "BannerWall"
-msgstr ""
+msgstr "Banner væg"
 
 # Kodi
 msgctxt "#31090"
 msgid "Seconds"
-msgstr ""
+msgstr "Sekunder"
 
 # Kodi
 msgctxt "#31091"
 msgid "Select items"
-msgstr ""
+msgstr "Vælg emner"
 
 # Aeon Nox for Plex
 msgctxt "#31093"
 msgid "Advanced"
-msgstr ""
+msgstr "Avanceret"
 
 # Kodi
 msgctxt "#31103"
@@ -189,12 +189,12 @@ msgstr ""
 # Kodi
 msgctxt "#31107"
 msgid "Persistent"
-msgstr ""
+msgstr "Persistent"
 
 # Kodi
 msgctxt "#31109"
 msgid "Unwatched episode count"
-msgstr ""
+msgstr "Uset episode tælling"
 
 # Plex
 msgctxt "#31118" 
@@ -224,7 +224,7 @@ msgstr "Uset"
 # Aeon Nox for Plex
 msgctxt "#31157"
 msgid "Submenu always visible"
-msgstr ""
+msgstr "Undermenu altid synlig"
 
 # Plex
 msgctxt "#31225"
@@ -244,7 +244,7 @@ msgstr "Din forudindstilling"
 # Plex
 msgctxt "#31228"
 msgid "Lyrics"
-msgstr "Lyrik"
+msgstr "Sangtekster"
 
 # Kodi
 msgctxt "#31320"
@@ -279,7 +279,7 @@ msgstr "[B]KONFIGURER TJENESTER[/B][CR][CR]Opsæt styring af Kodi ved hjælp af 
 # Aeon Nox for Plex
 msgctxt "#31421"
 msgid "Select your PLEX user Profile[CR]to login and continue"
-msgstr ""
+msgstr "Vælg din PLEX brugerprofil[CR]for at logge ind og fortsætte"
 
 # Plex
 msgctxt "#31602"
@@ -304,22 +304,22 @@ msgstr "Billede"
 # Kodi
 msgctxt "#31913"
 msgid "Aeon Nox main menu horizontal position"
-msgstr ""
+msgstr "Aeon Nox hovedmenu horisontal position"
 
 # Kodi
 msgctxt "#31914"
 msgid "Change the horizontal position of the main menu. Default is a lower position on screen."
-msgstr ""
+msgstr "Skift den horisontale position af hovedmenuen. Standard er en nedre position på skærmen"
 
 # Kodi
 msgctxt "#31915"
 msgid "Navigation style for horizontal lists"
-msgstr ""
+msgstr "Navigationsstil for horisontale lister"
 
 # Kodi
 msgctxt "#31916"
 msgid "Change the way horizontal lists scroll in Aeon Nox. Default will scroll lists in a cycle. "Fixed" are lists with a beginning and end."
-msgstr ""
+msgstr "Skift måden hvorpå horisontale lister scroller i Aeon Nox. Som standard scroller lister i en cyklus. "Fast" er lister med en begyndelse og en slutning"
 
 # Kodi
 msgctxt "#31917"
@@ -454,77 +454,77 @@ msgstr "* Plottet er gemt for ikke at afsløre handlingen *"
 # Plex
 msgctxt "#41000"
 msgid "System Settings"
-msgstr ""
+msgstr "Systemindstillinger"
 
 # Plex
 msgctxt "#41001"
 msgid "Control Precaching"
-msgstr ""
+msgstr "Kontrollér Precaching"
 
 # Plex
 msgctxt "#41002"
 msgid "Select Servers to cache"
-msgstr ""
+msgstr "Vælg servere at cache"
 
 # Plex
 msgctxt "#41003"
 msgid "Precaching Section"
-msgstr ""
+msgstr "Precache sektion"
 
 # Plex
 msgctxt "#41004"
 msgid "Precaching"
-msgstr ""
+msgstr "Precacher"
 
 # Plex
 msgctxt "#41005"
 msgid "Action : Retrieving content from"
-msgstr ""
+msgstr "Aktion : Henter indhold fra"
 
 # Plex
 msgctxt "#41006"
 msgid "Action : Precaching item"
-msgstr ""
+msgstr "Precacher emne"
 
 # Plex
 msgctxt "#41007"
 msgid "Progress"
-msgstr ""
+msgstr "Fremskridt"
 
 # Plex
 msgctxt "#41008"
 msgid "Extras"
-msgstr ""
+msgstr "Ekstra"
 
 # Plex
 msgctxt "#41009"
 msgid "Switch User"
-msgstr ""
+msgstr "Skift bruger"
 
 # Aeon Nox for Plex
 msgctxt "#42001"
 msgid "Set Section Background"
-msgstr ""
+msgstr "Indstil sektionsbaggrund"
 
 # Aeon Nox for Plex
 msgctxt "#42002"
 msgid "Set Timer"
-msgstr ""
+msgstr "Indstil Timer"
 
 # Aeon Nox for Plex
 msgctxt "#42003"
 msgid "The system will shut down at"
-msgstr ""
+msgstr "Systemet lukker ned kl"
 
 # Aeon Nox for Plex
 msgctxt "#42004"
 msgid "Sign In"
-msgstr ""
+msgstr "Log ind"
 
 # Aeon Nox for Plex
 msgctxt "#42012"
 msgid "Set Background"
-msgstr ""
+msgstr "Indstil baggrund"
 
 # Aeon Nox for Plex
 msgctxt "#42013"
@@ -534,82 +534,82 @@ msgstr ""
 # Aeon Nox for Plex
 msgctxt "#42015"
 msgid "SORT"
-msgstr ""
+msgstr "SORTÉR"
 
 # Aeon Nox for Plex
 msgctxt "#42016"
 msgid "No Audio Matching Filters"
-msgstr ""
+msgstr "Ingen Lyd matcher filtre"
 
 # Aeon Nox for Plex
 msgctxt "#42017"
 msgid "No Photos Matching Filters"
-msgstr ""
+msgstr "Ingen billeder matcher filtre"
 
 # Aeon Nox for Plex
 msgctxt "#42018"
 msgid "Plex Log In"
-msgstr ""
+msgstr "Plex Log Ind"
 
 # Aeon Nox for Plex
 msgctxt "#42019"
 msgid "User ID"
-msgstr ""
+msgstr "BrugerID"
 
 # Aeon Nox for Plex
 msgctxt "#42021"
 msgid "Shared Content"
-msgstr ""
+msgstr "Delt Indhold"
 
 # Aeon Nox for Plex
 msgctxt "#42022"
 msgid "No Videos Matching Filters"
-msgstr ""
+msgstr "Ingen Videoer matcher filtre"
 
 # Aeon Nox for Plex
 msgctxt "#42023"
 msgid "On Deck"
-msgstr ""
+msgstr "Igangværende"
 
 # Aeon Nox for Plex
 msgctxt "#42029"
 msgid "Rate"
-msgstr ""
+msgstr "Bedøm"
 
 # Aeon Nox for Plex
 msgctxt "#42030"
 msgid "New Search"
-msgstr ""
+msgstr "Ny Søgning"
 
 # Aeon Nox for Plex
 msgctxt "#42033"
 msgid "Enter PIN"
-msgstr ""
+msgstr "Indtast PIN"
 
 # Aeon Nox for Plex
 msgctxt "#42034"
 msgid "Appearance Settings"
-msgstr ""
+msgstr "Udseende Indstillinger"
 
 # Aeon Nox for Plex
 msgctxt "#42035"
 msgid "Playback Settings"
-msgstr ""
+msgstr "Afspilnings Indstillinger"
 
 # Aeon Nox for Plex
 msgctxt "#42036"
 msgid "Network Settings"
-msgstr ""
+msgstr "Netværks Indstillinger"
 
 # Aeon Nox for Plex
 msgctxt "#42037"
 msgid "Font size for Plot"
-msgstr ""
+msgstr "Skriftstørrelse for plot"
 
 # Aeon Nox for Plex
 msgctxt "#42038"
 msgid "Navigational Style for Home Menu"
-msgstr ""
+msgstr "Navigationsstil for Hjem menuen"
 
 # Aeon Nox for Plex
 msgctxt "#42039"
