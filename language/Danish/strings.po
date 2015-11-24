@@ -614,17 +614,17 @@ msgstr "Navigationsstil for Hjem menuen"
 # Aeon Nox for Plex
 msgctxt "#42039"
 msgid "Disable Search Icon"
-msgstr ""
+msgstr "Deaktivér søgeikon"
 
 # Aeon Nox for Plex
 msgctxt "#42040"
 msgid "Enable Plex Server Info"
-msgstr ""
+msgstr "Aktivér Plex Server Info"
 
 # Aeon Nox for Plex
 msgctxt "#42041"
 msgid "Disable On Deck"
-msgstr ""
+msgstr "Deaktivér On Deck"
 
 # Aeon Nox for Plex
 msgctxt "#42042"
@@ -634,132 +634,132 @@ msgstr ""
 # Aeon Nox for Plex
 msgctxt "#42043"
 msgid "TV Icon Style"
-msgstr ""
+msgstr "TV ikonstil"
 
 # Aeon Nox for Plex
 msgctxt "#42044"
 msgid "Music Icon Style"
-msgstr ""
+msgstr "Musik ikonstil"
 
 # Aeon Nox for Plex
 msgctxt "#42045"
 msgid "Photo Icon Style"
-msgstr ""
+msgstr "Foto ikonstil"
 
 # Aeon Nox for Plex
 msgctxt "#42046"
 msgid "Enable Live DVD/CD Cases"
-msgstr ""
+msgstr "Aktivér Live DVD/CD covers"
 
 # Aeon Nox for Plex
 msgctxt "#42047"
 msgid "Enable Single Image Home Background"
-msgstr ""
+msgstr "Aktiver enkelt-billede-baggrund "
 
 # Aeon Nox for Plex
 msgctxt "#42048"
 msgid "Image:"
-msgstr ""
+msgstr "Billede:"
 
 # Aeon Nox for Plex
 msgctxt "#42049"
 msgid "Enable Home Slideshow"
-msgstr ""
+msgstr "Aktivér Hjemme Slideshow"
 
 # Aeon Nox for Plex
 msgctxt "#42051"
 msgid "Section Name:"
-msgstr ""
+msgstr "Sektionsnavn"
 
 # Aeon Nox for Plex
 msgctxt "#42052"
 msgid "Image Path:"
-msgstr ""
+msgstr "Billede sti:"
 
 # Aeon Nox for Plex
 msgctxt "#42054"
 msgid "Recent"
-msgstr ""
+msgstr "Nylig"
 
 # Aeon Nox for Plex
 msgctxt "#42056"
 msgid "Glass"
-msgstr ""
+msgstr "Glas"
 
 # Aeon Nox for Plex
 msgctxt "#42057"
 msgid "DVD/Bluray"
-msgstr ""
+msgstr "DVD/Bluray"
 
 # Aeon Nox for Plex
 msgctxt "#42058"
 msgid "Poster"
-msgstr ""
+msgstr "Plakat"
 
 # Aeon Nox for Plex
 msgctxt "#42059"
 msgid "Square"
-msgstr ""
+msgstr "Kvadrat"
 
 # Aeon Nox for Plex
 msgctxt "#42061"
 msgid "Display plot outlines in a small size to discourage scrolling."
-msgstr ""
+msgstr "Vis plot med småt for at modvirke scrolling"
 
 # Aeon Nox for Plex
 msgctxt "#42062"
 msgid "Change the way the Home Menu scrolls in Aeon Nox. Default will scroll the menu in a cycle. "Fixed" has a beginning and end."
-msgstr ""
+msgstr "Ændre måden hjemmemenuen scroller i Aeon Nox. Standard er cyklus scroll. "Fixed" har en begyndelse og en slutning"
 
 # Aeon Nox for Plex
 msgctxt "#42063"
 msgid "Enable to make the submenu permanently visible.  Default is hidden until pressing down."
-msgstr ""
+msgstr "Aktivér for at gøre undermenuen permanent synlig. Standard er skjult"
 
 # Aeon Nox for Plex
 msgctxt "#42064"
 msgid "This setting moves the Global Search icon on the home screen to the home menu list."
-msgstr ""
+msgstr "Denne indstilling flytter det globale søge ikon fra hjemmeskærmen til hjemmemenulisten"
 
 # Aeon Nox for Plex
 msgctxt "#42065"
 msgid "Display Server, User Login and Security Status on home menu."
-msgstr ""
+msgstr "Vis Server, bruglerlogin og sikkerhedsstatus på hjemmemmenuen"
 
 # Aeon Nox for Plex
 msgctxt "#42066"
 msgid "Disable Home menu widgets."
-msgstr ""
+msgstr "Deaktivér hjemmemenu widgets"
 
 # Aeon Nox for Plex
 msgctxt "#42067"
 msgid "Choose the icon style for movie widgets.  Choices include Posters, Clear Cases, Glass Cases and DVD/Bluray Cases."
-msgstr ""
+msgstr "Vælg ikon stil for film widgets. Valg inkluderer Plakater, klare covers, glas covers og DVD/BluRay covers"
 
 # Aeon Nox for Plex
 msgctxt "#42068"
 msgid "Choose the icon style for TV widgets.  Choices include Posters and Glass Cases."
-msgstr ""
+msgstr "Vælg ikon stil for TV widgets. Valg inkluderer Plakater og glas covers"
 
 # Aeon Nox for Plex
 msgctxt "#42069"
 msgid "Choose the icon style for Music widgets.  Choices include Posters and Glass Cases."
-msgstr ""
+msgstr "Vælg ikon stil for Musik widgets. Valg inkluderer Plakater og glas covers"
 
 # Aeon Nox for Plex
 msgctxt "#42070"
 msgid "Choose the icon shape for Photo widgets.  Choices include Square and Landscape."
-msgstr ""
+msgstr "Vælg ikonform for foto widgets. Valg inkluderer kvadrat og landskab"
 
 # Aeon Nox for Plex
 msgctxt "#42071"
 msgid "Enable a Collage of DVD/Bluray cases as the Home menu background."
-msgstr ""
+msgstr "Vælg en collage af DVD/BluRay covers som baggrund for hjemmemenuen"
 
 # Aeon Nox for Plex
 msgctxt "#42072"
 msgid "Set a single image as the background for the Home menu."
-msgstr ""
+msgstr "Sæt et enkeltbillede som baggrund for hjemmemenuen"
 
 # Aeon Nox for Plex
 msgctxt "#42073"
